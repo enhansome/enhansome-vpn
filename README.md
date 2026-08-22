@@ -29,7 +29,7 @@ PopcornTime（#爆米花时间）和 #WebTorrent 这两个边下边看的视频�
 
 > obfs4+OpenVPN+bbr
 
-<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,170 | 🐛 160 | 🌐 C++ | 📅 2026-08-21
+<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,170 | 🐛 161 | 🌐 C++ | 📅 2026-08-22
 SoftEther VPN Client + VPN Gate Client v4.22-9634
 <http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip>
 
@@ -43,7 +43,7 @@ SoftEther VPN Client + VPN Gate Client v4.22-9634
 <https://twitter.com/shandianshi>
 jap33 教授推介
 brook
-<https://github.com/txthinking/brook> ⭐ 15,159 | 🐛 23 | 🌐 Go | 📅 2026-02-25
+<https://github.com/txthinking/brook> ⭐ 15,161 | 🐛 23 | 🌐 Go | 📅 2026-02-25
 Slitheen
 <https://crysp.uwaterloo.ca/software/slitheen/>
 <https://github.com/zhums/slitheen> ⭐ 5 | 🐛 3 | 🌐 C | 📅 2017-08-27
@@ -80,7 +80,7 @@ Socks Proxy Checker SPC
 社长威武!
 
 二哥. 纸飞机 Shadowsocks 秀才变流氓, 好!
-<https://github.com/shadowsocks/shadowsocks-windows/releases> ⭐ 59,571 | 🐛 202 | 🌐 C# | 📅 2025-01-01
+<https://github.com/shadowsocks/shadowsocks-windows/releases> ⭐ 59,573 | 🐛 203 | 🌐 C# | 📅 2025-01-01
 稳定的免费节点很难搞, 申请注册签到g组q群...哎呀呀
 
 三哥. 赛风 Psiphon 突然就嗨高了
@@ -130,7 +130,7 @@ Proxifier
 
 VPS 方案
 社长钦点 ipsec VPN(psk 模式)
-<https://github.com/hwdsl2/docker-ipsec-vpn-server> ⭐ 7,120 | 🐛 0 | 🌐 Shell | 📅 2026-08-15
+<https://github.com/hwdsl2/docker-ipsec-vpn-server> ⭐ 7,121 | 🐛 0 | 🌐 Shell | 📅 2026-08-15
 
 FuguHub MxTunnel 梭鱼 #1773
 全套VPS方案, 附带一个https玩具
@@ -207,7 +207,7 @@ Briar 是开源的加密通信应用，与其他工具相比各有特色：去�
 
 P2P脱中央 | BitChute 是使用 WebTorrent 技术实现的去中心化的类 YouTube 视频站。<https://www.bitchute.com>
 
-Magic Wormhole - 神奇的「魔法虫洞」<https://github.com/warner/magic-wormhole> ⭐ 22,862 | 🐛 179 | 🌐 Python | 📅 2026-08-20
+Magic Wormhole - 神奇的「魔法虫洞」<https://github.com/warner/magic-wormhole> ⭐ 22,867 | 🐛 179 | 🌐 Python | 📅 2026-08-20
 
 A 和 B 交换一次性加密数据，A 发送一个文件或一段文本消息并生成随机接受代码如 2-hello-tweeps，B 接收时输入随机代码即可。支持 Tor。
 
@@ -322,7 +322,7 @@ IPList转换程序 [#177](https://github.com/phuslu/gop/issues/177)
 <http://www.nirsoft.net/utils/country_traceroute.html>
 
 WinMTR中文
-<https://github.com/oott123/WinMTR/releases> ⭐ 355 | 🐛 1 | 🌐 C++ | 📅 2018-05-07
+<https://github.com/oott123/WinMTR/releases> ⭐ 356 | 🐛 1 | 🌐 C++ | 📅 2018-05-07
 
 ◇检查GP服务端更新
 <https://github.com/phuslu/goproxy/tree/server.gae/gae>
@@ -389,7 +389,7 @@ IPList转换程序 [#177](https://github.com/phuslu/gop/issues/177)
 <http://www.nirsoft.net/utils/country_traceroute.html>
 
 WinMTR中文
-<https://github.com/oott123/WinMTR/releases> ⭐ 355 | 🐛 1 | 🌐 C++ | 📅 2018-05-07
+<https://github.com/oott123/WinMTR/releases> ⭐ 356 | 🐛 1 | 🌐 C++ | 📅 2018-05-07
 
 ◇检查GP服务端更新
 <https://github.com/phuslu/goproxy/tree/server.gae/gae>
@@ -401,7 +401,7 @@ WinMTR中文
 <https://github.com/SeaHOH/GotoX> ⭐ 757 | 🐛 37 | 🌐 Python | 📅 2025-03-01
 可以获得超白金稳定ip.
 
-<https://github.com/oott123/WinMTR/releases> ⭐ 355 | 🐛 1 | 🌐 C++ | 📅 2018-05-07
+<https://github.com/oott123/WinMTR/releases> ⭐ 356 | 🐛 1 | 🌐 C++ | 📅 2018-05-07
 
 gogo tester现在可以鼠标右键导出成json格式了
 
@@ -409,4 +409,4 @@ gogo tester现在可以鼠标右键导出成json格式了
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
