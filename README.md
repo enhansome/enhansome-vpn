@@ -29,7 +29,7 @@ PopcornTime（#爆米花时间）和 #WebTorrent 这两个边下边看的视频�
 
 > obfs4+OpenVPN+bbr
 
-<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,172 | 🐛 164 | 🌐 C++ | 📅 2026-08-24
+<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,173 | 🐛 163 | 🌐 C++ | 📅 2026-08-24
 SoftEther VPN Client + VPN Gate Client v4.22-9634
 <http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip>
 
@@ -43,7 +43,7 @@ SoftEther VPN Client + VPN Gate Client v4.22-9634
 <https://twitter.com/shandianshi>
 jap33 教授推介
 brook
-<https://github.com/txthinking/brook> ⭐ 15,162 | 🐛 23 | 🌐 Go | 📅 2026-02-25
+<https://github.com/txthinking/brook> ⭐ 15,161 | 🐛 23 | 🌐 Go | 📅 2026-02-25
 Slitheen
 <https://crysp.uwaterloo.ca/software/slitheen/>
 <https://github.com/zhums/slitheen> ⭐ 5 | 🐛 3 | 🌐 C | 📅 2017-08-27
@@ -207,7 +207,7 @@ Briar 是开源的加密通信应用，与其他工具相比各有特色：去�
 
 P2P脱中央 | BitChute 是使用 WebTorrent 技术实现的去中心化的类 YouTube 视频站。<https://www.bitchute.com>
 
-Magic Wormhole - 神奇的「魔法虫洞」<https://github.com/warner/magic-wormhole> ⭐ 22,868 | 🐛 179 | 🌐 Python | 📅 2026-08-20
+Magic Wormhole - 神奇的「魔法虫洞」<https://github.com/warner/magic-wormhole> ⭐ 22,868 | 🐛 181 | 🌐 Python | 📅 2026-08-24
 
 A 和 B 交换一次性加密数据，A 发送一个文件或一段文本消息并生成随机接受代码如 2-hello-tweeps，B 接收时输入随机代码即可。支持 Tor。
 

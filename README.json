@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 12522239,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:54:22Z",
+                "last_commit": "2026-08-24T17:07:52Z",
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4172
+                "stars": 4173
               }
             }
           ],
@@ -133,7 +133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:24.145Z",
+    "last_updated": "2026-08-24T19:15:45.121Z",
     "original_repository": "udpsec/awesome-vpn",
     "original_repository_id": 99688745,
     "original_repository_sha": "a73fe2f3a2ef2900eff7560df6cb940d3d6bcf45",
