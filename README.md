@@ -29,7 +29,7 @@ PopcornTime（#爆米花时间）和 #WebTorrent 这两个边下边看的视频�
 
 > obfs4+OpenVPN+bbr
 
-<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,171 | 🐛 162 | 🌐 C++ | 📅 2026-08-23
+<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,172 | 🐛 164 | 🌐 C++ | 📅 2026-08-24
 SoftEther VPN Client + VPN Gate Client v4.22-9634
 <http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip>
 
@@ -43,7 +43,7 @@ SoftEther VPN Client + VPN Gate Client v4.22-9634
 <https://twitter.com/shandianshi>
 jap33 教授推介
 brook
-<https://github.com/txthinking/brook> ⭐ 15,163 | 🐛 23 | 🌐 Go | 📅 2026-02-25
+<https://github.com/txthinking/brook> ⭐ 15,162 | 🐛 23 | 🌐 Go | 📅 2026-02-25
 Slitheen
 <https://crysp.uwaterloo.ca/software/slitheen/>
 <https://github.com/zhums/slitheen> ⭐ 5 | 🐛 3 | 🌐 C | 📅 2017-08-27
@@ -80,7 +80,7 @@ Socks Proxy Checker SPC
 社长威武!
 
 二哥. 纸飞机 Shadowsocks 秀才变流氓, 好!
-<https://github.com/shadowsocks/shadowsocks-windows/releases> ⭐ 59,573 | 🐛 203 | 🌐 C# | 📅 2025-01-01
+<https://github.com/shadowsocks/shadowsocks-windows/releases> ⭐ 59,574 | 🐛 203 | 🌐 C# | 📅 2025-01-01
 稳定的免费节点很难搞, 申请注册签到g组q群...哎呀呀
 
 三哥. 赛风 Psiphon 突然就嗨高了
@@ -409,4 +409,4 @@ gogo tester现在可以鼠标右键导出成json格式了
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

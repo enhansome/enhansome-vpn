@@ -1,7 +1,139 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "如果是学生或者有 .edu.* 邮箱，可以注册 Microsoft Imagine 服务，学习开发也行，搭建个 goproxy 翻墙也行。https://imagine.microsoft.com/zh-cn\nI2P 速度慢， 匿名性强；ZeroNet 功能丰富，站点索引强大，要通过 Tor 匿名； IPFS 和 Beaker Browser 很相似，很适合发布静态内容，匿名性强，但没有站点索引或搜索功能。以上几个都可以建立去中心化的分布式站点，只要有存活节点就能访问用 WireGuard 建 VPN 隧道，给内外网打洞。还有一些项目，内外网穿透的同时还兼顾翻墙，像 ngrok, frp, dog-tunnel 等，以及非常好用的 ZeroTier。",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0",
+              "description": "SoftEther VPN Client + VPN Gate Client v4.22-9634 http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12522239,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:54:22Z",
+                "owner": "PurpleI2P",
+                "repo": "i2pd",
+                "stars": 4172
+              }
+            }
+          ],
+          "description": "免费使用 Heroku 部署 shadowsocks https://github.com/521xueweihan/shadowsocks-heroku …\n科学上网组合突破ISP带宽\nobfs4+OpenVPN+bbr\n玩家向 --专属乌贼前置 squid proxy http://www.sshagan.net/?page=squid http://www.speedssh.com/squid-proxy https://www.fastssh.com/page/squid-proxy\n致谢西语/葡语免费软件社区同仁支持, 添加若干新工具 inject xl | inject xl terbaru | inject xl 2017 http://justnewbiego.blogspot.com/2017/03/inject-xl-terbaru-2017-stigs.html#more\n印尼工具, 基于ssh. 下载 https://www.upload.ee/files/6906460/inject_xl_Get_Kimcil_terbaru_2017_no_limit.zip.html\nSocksCap64 3.9 https://www.sockscap64.com/software/SocksCap64-setup-3.9.zip 便携 https://drive.google.com/drive/folders/0B26bVHdTiYoHczZpTWlaOWxheTg\n袜子搜寻检测 Gptool http://www.gatherproxy.com/proxychecker 破解 8.9 https://www.datafilehost.com/d/9e427b4b\nSocks Proxy Checker SPC http://www.socksproxychecker.com/\n一哥. GoProxy 狗鞭...雄起! https://github.com/phuslu/goproxy/releases 社长威武!\n二哥. 纸飞机 Shadowsocks 秀才变流氓, 好! https://github.com/shadowsocks/shadowsocks-windows/releases 稳定的免费节点很难搞, 申请注册签到g组q群...哎呀呀\n三哥. 赛风 Psiphon 突然就嗨高了 https://www.psiphon3.com/zh/download.html\n基友 Klephon 印尼改版, 连接旧节点, 还有优势, 无需更新. https://sourceforge.net/projects/klephon/\n四弟SSH 节点 印尼最新白金免费SSH #1413\nBitvise SSH Client https://www.bitvise.com/ssh-client-download\n基友 Putty/Myentunnel ssh服务器支持Bvssh/putty不同, 最好同备. 有些节点Bvssh表现平平, 但putty就饱满.\n◇五妹 帽架 [自选一种即可], 没有五妹, 哥哥们统统阳痿早泄, 那是迟早的事!\nProxyCap 破解有诀窍 http://www.proxycap.com/download.html\nProxifier https://www.proxifier.com/download.htm 并不是越新版越好, 波斯翻墙武库 #372, 这才是行家的仓库.\n前置搜刮检测: HellLabs Proxy Checker/ Gather Proxy Premium 8.9.0 #1764 前置玩家宝库 #1781\n六.洋葱 Tor Browser https://www.torproject.org/projects/torbrowser.html.en 同样的, socks巴西前置今年很多. 网桥现在不如去年春天. 行家是玩socks4前置的, 洋葱对袜4的支持一直都更好. 节点同时支持Socks4/Socks5, 选袜4.\n七. 无名 JonDo https://anon.inf.tu-dresden.de/win/download_en.html 现在是4个免费服务器, 限速100kb. 国内只能用socks5前置.\n洋葱, 无名 匿名玩具, 玩飞跃破墙, 实在浪费.\nVPS 方案 社长钦点 ipsec VPN(psk 模式) https://github.com/hwdsl2/docker-ipsec-vpn-server\nFuguHub MxTunnel 梭鱼 #1773 全套VPS方案, 附带一个https玩具\n突厥 史翠珊 Streisand https://github.com/jlund/streisand 自动化安装脚本, 同时生成客户端配置文件. L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard.\n08 狗蛋 GoGo tunnel http://www.gogotunnel.com/ 现在是狗族火锅城, SNI, solo... 凡是异类狗娘, 统统用上, 适合故意包不同人士\n09.Ultrasurf+Freegate 老不死, 戴帽子 http://ultrasurf.us/index.html 基友 http://dit-inc.us/freegate.html 国外也很有名的, 需要帽子前置, 速度相当饱满. Freegate只能用部分亚洲前置, 像俄国或欧洲的, 这厮就要\"肥水不留外人田\"了.\n10.绕行 Alkasir 仅支持Chromium类浏览器 https://alkasir.com/en/index.html\n11.蓝灯 lantern Kisesy 大大 蓝灯 ​v2 典藏版 #1411 有些线路飞快, 即使用光免费流量,\n有些蜗牛, 使用中国ip的袜子正好, 因为大多数ip是中国, 主机在香港. 只有极个别真是中国佬的玩意, 像180.153.87.22:10080 上海电信. 国人其实是铁公鸡,美称君子. :)\n12.SoftEther VPN Client + VPN Gate Client v4.22-9634 http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip\n13 Stunnel 5.41 / Simurgh 复活 #273\n14 罗马利亚 ChrisPC Anonymous Proxy #1768 主任去弹窗版本.\nIP Hider Pro 5.8.0.1 #1779\nHotspot Shield 6.8.12 / 6.20.31 Elite Edition",
+          "node_type": "group",
+          "title": "使用 Heroku 部署 shadowsocks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "强烈推荐此可视化Surge规则生成器，高度可定制化的 Surge 规则集 http://23.95.242.120/SurgeRule/",
+              "description": "（详情看图片与链接）。通过自定义节点（点击查看示例）并按需挑选规则，定制私人专属规则。开源地址https://github.com/jinyu121/SurgeRule",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73187846,
+                "language": null,
+                "last_commit": "2018-05-06T04:40:26Z",
+                "owner": "jinyu121",
+                "repo": "SurgeRule",
+                "stars": 247
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Surge规则生成器"
+        }
+      ],
+      "title": "科学上网"
+    },
+    {
+      "description": "Google Code的GoAgent Issues备份 #97\n◇IP施粥 out0fmemory大大 https://github.com/out0fmemory/GoAgent-Always-Available\n◇自己动手DIY搜寻ip K主任 Quic扫描 [New!!!] https://github.com/Kisesy/gscan_quic\nxyuanmu大大 推荐个查找谷歌IP的工具 #337 checkiptools 工具集 https://github.com/xyuanmu/checkiptools\nReclaim hlaspoor 大大 https://github.com/hlaspoor/Reclaim\n◇检测可用ip A. MFF 再改版 #654 Kisesy大大 修订MFF Kisesy大大 修订原版两款 Kisesy大大 修订MFF增强版\ncannanlly大大 修订原版 2.3.12 https://github.com/cannanlly/gogotester/releases\nB. 推荐hjolin大大新作: 狗搜粮 Go Checkip #680\nC. 海大少改版checkgoogleip 新玩法 #419\nD. 狂扫ip器 Angry IP Scanner 3.4.1 #407\nCheckip by johnsonz 大大 https://github.com/johnsonz/go-checkiptools\nE. CNMan 大大 GoogleIPRange--整合版IP数据库 #1095\n◇转换格式 dfdragon 大大 IPList转换程序 #177\nTangBaohua 大大 发布GoAgent IP列表转 GoProxy IP列表工具 #247\n◇路由追踪 CHN008 大大推荐 图形化的带地图的路由追踪工具 http://cdn.ipip.net/17mon/besttrace.exe\n尼尔.费舍尔 无地图 http://www.nirsoft.net/utils/country_traceroute.html\nGoogle Code的GoAgent Issues备份 #97\n◇IP施粥 out0fmemory大大 https://github.com/out0fmemory/GoAgent-Always-Available\n◇自己动手DIY搜寻ip K主任 Quic扫描 [New!!!] https://github.com/Kisesy/gscan_quic\nxyuanmu大大 推荐个查找谷歌IP的工具 #337 checkiptools 工具集 https://github.com/xyuanmu/checkiptools\nReclaim hlaspoor 大大 https://github.com/hlaspoor/Reclaim\n◇检测可用ip A. MFF 再改版 #654 Kisesy大大 修订MFF Kisesy大大 修订原版两款 Kisesy大大 修订MFF增强版\ncannanlly大大 修订原版 2.3.12 https://github.com/cannanlly/gogotester/releases\nB. 推荐hjolin大大新作: 狗搜粮 Go Checkip #680\nC. 海大少改版checkgoogleip 新玩法 #419\nD. 狂扫ip器 Angry IP Scanner 3.4.1 #407\nCheckip by johnsonz 大大 https://github.com/johnsonz/go-checkiptools\nE. CNMan 大大 GoogleIPRange--整合版IP数据库 #1095\n◇转换格式 dfdragon 大大 IPList转换程序 #177\nTangBaohua 大大 发布GoAgent IP列表转 GoProxy IP列表工具 #247\n◇路由追踪 CHN008 大大推荐 图形化的带地图的路由追踪工具 http://cdn.ipip.net/17mon/besttrace.exe\n尼尔.费舍尔 无地图 http://www.nirsoft.net/utils/country_traceroute.html\ngogo tester现在可以鼠标右键导出成json格式了",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WinMTR中文 https://github.com/oott123/WinMTR/releases",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28805677,
+            "language": "C++",
+            "last_commit": "2018-05-07T03:53:35Z",
+            "owner": "oott123",
+            "repo": "WinMTR",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "海少改版梦遗狗 https://github.com/SeaHOH/GotoX",
+          "description": "可以获得超白金稳定ip.◇ GoProxy 辅助工具列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71294077,
+            "language": "Python",
+            "last_commit": "2025-03-01T13:54:55Z",
+            "owner": "SeaHOH",
+            "repo": "GotoX",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinMTR中文 https://github.com/oott123/WinMTR/releases",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28805677,
+            "language": "C++",
+            "last_commit": "2018-05-07T03:53:35Z",
+            "owner": "oott123",
+            "repo": "WinMTR",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "海少改版梦遗狗 https://github.com/SeaHOH/GotoX",
+          "description": "可以获得超白金稳定ip.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71294077,
+            "language": "Python",
+            "last_commit": "2025-03-01T13:54:55Z",
+            "owner": "SeaHOH",
+            "repo": "GotoX",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/oott123/WinMTR/releases",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28805677,
+            "language": "C++",
+            "last_commit": "2018-05-07T03:53:35Z",
+            "owner": "oott123",
+            "repo": "WinMTR",
+            "stars": 356
+          }
+        }
+      ],
+      "title": "◇ GoProxy 辅助工具列表"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T19:00:50.058Z",
+    "last_updated": "2026-08-24T14:22:24.145Z",
     "original_repository": "udpsec/awesome-vpn",
     "original_repository_id": 99688745,
     "original_repository_sha": "a73fe2f3a2ef2900eff7560df6cb940d3d6bcf45",
