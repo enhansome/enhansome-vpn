@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 🛡 I2P: End-to-End encrypted and anonymous Internet",
+                "homepage": "https://i2pd.website",
                 "id": 12522239,
                 "language": "C++",
-                "last_commit": "2026-08-28T20:27:22Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T02:00:32Z",
+                "open_issues": 163,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4179
+                "stars": 4179,
+                "topics": [
+                  "anonymity",
+                  "c-plus-plus",
+                  "communication",
+                  "cryptography",
+                  "i2p",
+                  "i2p-client",
+                  "openssl",
+                  "p2p",
+                  "privacy",
+                  "security",
+                  "vpn"
+                ]
               },
               "first_seen": "2026-08-29T01:54:17.266Z"
             }
@@ -35,12 +52,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deprecate since 2016",
+                "homepage": null,
                 "id": 73187846,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-05-06T04:40:26Z",
+                "open_issues": 3,
                 "owner": "jinyu121",
                 "repo": "SurgeRule",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "surge"
+                ]
               },
               "first_seen": "2026-08-29T01:54:17.266Z"
             }
@@ -62,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WinMTR - 中国改进版 // 并不会再更新了",
+            "homepage": null,
             "id": 28805677,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-05-07T03:53:35Z",
+            "open_issues": 1,
             "owner": "oott123",
             "repo": "WinMTR",
-            "stars": 356
+            "stars": 356,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
         },
@@ -78,12 +107,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "本地自动代理，修改自 goagent。",
+            "homepage": null,
             "id": 71294077,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-01T13:54:55Z",
+            "open_issues": 37,
             "owner": "SeaHOH",
             "repo": "GotoX",
-            "stars": 757
+            "stars": 757,
+            "topics": [
+              "auto-proxy",
+              "bypass-sni",
+              "sni",
+              "sni-proxy"
+            ]
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
         },
@@ -94,12 +133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WinMTR - 中国改进版 // 并不会再更新了",
+            "homepage": null,
             "id": 28805677,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-05-07T03:53:35Z",
+            "open_issues": 1,
             "owner": "oott123",
             "repo": "WinMTR",
-            "stars": 356
+            "stars": 356,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
         },
@@ -110,12 +154,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "本地自动代理，修改自 goagent。",
+            "homepage": null,
             "id": 71294077,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-01T13:54:55Z",
+            "open_issues": 37,
             "owner": "SeaHOH",
             "repo": "GotoX",
-            "stars": 757
+            "stars": 757,
+            "topics": [
+              "auto-proxy",
+              "bypass-sni",
+              "sni",
+              "sni-proxy"
+            ]
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
         },
@@ -126,12 +180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WinMTR - 中国改进版 // 并不会再更新了",
+            "homepage": null,
             "id": 28805677,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-05-07T03:53:35Z",
+            "open_issues": 1,
             "owner": "oott123",
             "repo": "WinMTR",
-            "stars": 356
+            "stars": 356,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
         }
@@ -140,15 +199,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:17.266Z",
+    "last_updated": "2026-08-29T04:42:04.774Z",
     "original_repository_info": {
       "archived": false,
+      "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
+      "homepage": null,
       "id": 99688745,
       "language": null,
+      "license": null,
       "last_commit": "2020-10-31T08:16:49Z",
+      "open_issues": 0,
       "owner": "udpsec",
       "repo": "awesome-vpn",
-      "stars": 541
+      "stars": 541,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "awesome-vpn",
+        "gfw",
+        "gfwlist",
+        "proxy",
+        "vpn",
+        "vpn-server"
+      ]
     },
     "original_repository_sha": "a73fe2f3a2ef2900eff7560df6cb940d3d6bcf45",
     "enhanced_repository": "enhansome/enhansome-vpn",
