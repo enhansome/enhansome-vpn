@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 12522239,
                 "language": "C++",
-                "last_commit": "2026-08-28T00:29:20Z",
+                "last_commit": "2026-08-28T20:27:22Z",
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4177
-              }
+                "stars": 4179
+              },
+              "first_seen": "2026-08-29T01:54:17.266Z"
             }
           ],
           "description": "免费使用 Heroku 部署 shadowsocks https://github.com/521xueweihan/shadowsocks-heroku …\n科学上网组合突破ISP带宽\nobfs4+OpenVPN+bbr\n玩家向 --专属乌贼前置 squid proxy http://www.sshagan.net/?page=squid http://www.speedssh.com/squid-proxy https://www.fastssh.com/page/squid-proxy\n致谢西语/葡语免费软件社区同仁支持, 添加若干新工具 inject xl | inject xl terbaru | inject xl 2017 http://justnewbiego.blogspot.com/2017/03/inject-xl-terbaru-2017-stigs.html#more\n印尼工具, 基于ssh. 下载 https://www.upload.ee/files/6906460/inject_xl_Get_Kimcil_terbaru_2017_no_limit.zip.html\nSocksCap64 3.9 https://www.sockscap64.com/software/SocksCap64-setup-3.9.zip 便携 https://drive.google.com/drive/folders/0B26bVHdTiYoHczZpTWlaOWxheTg\n袜子搜寻检测 Gptool http://www.gatherproxy.com/proxychecker 破解 8.9 https://www.datafilehost.com/d/9e427b4b\nSocks Proxy Checker SPC http://www.socksproxychecker.com/\n一哥. GoProxy 狗鞭...雄起! https://github.com/phuslu/goproxy/releases 社长威武!\n二哥. 纸飞机 Shadowsocks 秀才变流氓, 好! https://github.com/shadowsocks/shadowsocks-windows/releases 稳定的免费节点很难搞, 申请注册签到g组q群...哎呀呀\n三哥. 赛风 Psiphon 突然就嗨高了 https://www.psiphon3.com/zh/download.html\n基友 Klephon 印尼改版, 连接旧节点, 还有优势, 无需更新. https://sourceforge.net/projects/klephon/\n四弟SSH 节点 印尼最新白金免费SSH #1413\nBitvise SSH Client https://www.bitvise.com/ssh-client-download\n基友 Putty/Myentunnel ssh服务器支持Bvssh/putty不同, 最好同备. 有些节点Bvssh表现平平, 但putty就饱满.\n◇五妹 帽架 [自选一种即可], 没有五妹, 哥哥们统统阳痿早泄, 那是迟早的事!\nProxyCap 破解有诀窍 http://www.proxycap.com/download.html\nProxifier https://www.proxifier.com/download.htm 并不是越新版越好, 波斯翻墙武库 #372, 这才是行家的仓库.\n前置搜刮检测: HellLabs Proxy Checker/ Gather Proxy Premium 8.9.0 #1764 前置玩家宝库 #1781\n六.洋葱 Tor Browser https://www.torproject.org/projects/torbrowser.html.en 同样的, socks巴西前置今年很多. 网桥现在不如去年春天. 行家是玩socks4前置的, 洋葱对袜4的支持一直都更好. 节点同时支持Socks4/Socks5, 选袜4.\n七. 无名 JonDo https://anon.inf.tu-dresden.de/win/download_en.html 现在是4个免费服务器, 限速100kb. 国内只能用socks5前置.\n洋葱, 无名 匿名玩具, 玩飞跃破墙, 实在浪费.\nVPS 方案 社长钦点 ipsec VPN(psk 模式) https://github.com/hwdsl2/docker-ipsec-vpn-server\nFuguHub MxTunnel 梭鱼 #1773 全套VPS方案, 附带一个https玩具\n突厥 史翠珊 Streisand https://github.com/jlund/streisand 自动化安装脚本, 同时生成客户端配置文件. L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard.\n08 狗蛋 GoGo tunnel http://www.gogotunnel.com/ 现在是狗族火锅城, SNI, solo... 凡是异类狗娘, 统统用上, 适合故意包不同人士\n09.Ultrasurf+Freegate 老不死, 戴帽子 http://ultrasurf.us/index.html 基友 http://dit-inc.us/freegate.html 国外也很有名的, 需要帽子前置, 速度相当饱满. Freegate只能用部分亚洲前置, 像俄国或欧洲的, 这厮就要\"肥水不留外人田\"了.\n10.绕行 Alkasir 仅支持Chromium类浏览器 https://alkasir.com/en/index.html\n11.蓝灯 lantern Kisesy 大大 蓝灯 ​v2 典藏版 #1411 有些线路飞快, 即使用光免费流量,\n有些蜗牛, 使用中国ip的袜子正好, 因为大多数ip是中国, 主机在香港. 只有极个别真是中国佬的玩意, 像180.153.87.22:10080 上海电信. 国人其实是铁公鸡,美称君子. :)\n12.SoftEther VPN Client + VPN Gate Client v4.22-9634 http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip\n13 Stunnel 5.41 / Simurgh 复活 #273\n14 罗马利亚 ChrisPC Anonymous Proxy #1768 主任去弹窗版本.\nIP Hider Pro 5.8.0.1 #1779\nHotspot Shield 6.8.12 / 6.20.31 Elite Edition",
@@ -40,7 +41,8 @@
                 "owner": "jinyu121",
                 "repo": "SurgeRule",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-29T01:54:17.266Z"
             }
           ],
           "description": null,
@@ -66,7 +68,8 @@
             "owner": "oott123",
             "repo": "WinMTR",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-29T01:54:17.266Z"
         },
         {
           "node_type": "item",
@@ -81,7 +84,8 @@
             "owner": "SeaHOH",
             "repo": "GotoX",
             "stars": 757
-          }
+          },
+          "first_seen": "2026-08-29T01:54:17.266Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "oott123",
             "repo": "WinMTR",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-29T01:54:17.266Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "SeaHOH",
             "repo": "GotoX",
             "stars": 757
-          }
+          },
+          "first_seen": "2026-08-29T01:54:17.266Z"
         },
         {
           "node_type": "item",
@@ -126,14 +132,15 @@
             "owner": "oott123",
             "repo": "WinMTR",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-29T01:54:17.266Z"
         }
       ],
       "title": "◇ GoProxy 辅助工具列表"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:18:33.893Z",
+    "last_updated": "2026-08-29T01:54:17.266Z",
     "original_repository_info": {
       "archived": false,
       "id": 99688745,
