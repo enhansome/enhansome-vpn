@@ -29,7 +29,7 @@ PopcornTime（#爆米花时间）和 #WebTorrent 这两个边下边看的视频�
 
 > obfs4+OpenVPN+bbr
 
-<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,185 | 🐛 163 | 🌐 C++ | 📅 2026-09-02
+<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,187 | 🐛 163 | 🌐 C++ | 📅 2026-09-03
 SoftEther VPN Client + VPN Gate Client v4.22-9634
 <http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip>
 
@@ -80,7 +80,7 @@ Socks Proxy Checker SPC
 社长威武!
 
 二哥. 纸飞机 Shadowsocks 秀才变流氓, 好!
-<https://github.com/shadowsocks/shadowsocks-windows/releases> ⭐ 59,569 | 🐛 203 | 🌐 C# | 📅 2025-01-01
+<https://github.com/shadowsocks/shadowsocks-windows/releases> ⭐ 59,567 | 🐛 203 | 🌐 C# | 📅 2025-01-01
 稳定的免费节点很难搞, 申请注册签到g组q群...哎呀呀
 
 三哥. 赛风 Psiphon 突然就嗨高了
@@ -207,7 +207,7 @@ Briar 是开源的加密通信应用，与其他工具相比各有特色：去�
 
 P2P脱中央 | BitChute 是使用 WebTorrent 技术实现的去中心化的类 YouTube 视频站。<https://www.bitchute.com>
 
-Magic Wormhole - 神奇的「魔法虫洞」<https://github.com/warner/magic-wormhole> ⭐ 22,902 | 🐛 182 | 🌐 Python | 📅 2026-09-02
+Magic Wormhole - 神奇的「魔法虫洞」<https://github.com/warner/magic-wormhole> ⭐ 22,905 | 🐛 182 | 🌐 Python | 📅 2026-09-02
 
 A 和 B 交换一次性加密数据，A 发送一个文件或一段文本消息并生成随机接受代码如 2-hello-tweeps，B 接收时输入随机代码即可。支持 Tor。
 
@@ -275,7 +275,7 @@ https://play.google.com/store/apps/details?id=apc.android.tool.telnet&feature=se
 
 ◇自己动手DIY搜寻ip
 **K主任 Quic扫描 \[New!!!]**
-<https://github.com/Kisesy/gscan_quic> ⭐ 347 | 🐛 90 | 🌐 Go | 📅 2023-07-07
+<https://github.com/Kisesy/gscan_quic> ⭐ 346 | 🐛 90 | 🌐 Go | 📅 2023-07-07
 
 **xyuanmu大大**
 推荐个查找谷歌IP的工具 [#337](https://github.com/phuslu/gop/issues/337)
@@ -342,7 +342,7 @@ WinMTR中文
 
 ◇自己动手DIY搜寻ip
 **K主任 Quic扫描 \[New!!!]**
-<https://github.com/Kisesy/gscan_quic> ⭐ 347 | 🐛 90 | 🌐 Go | 📅 2023-07-07
+<https://github.com/Kisesy/gscan_quic> ⭐ 346 | 🐛 90 | 🌐 Go | 📅 2023-07-07
 
 **xyuanmu大大**
 推荐个查找谷歌IP的工具 [#337](https://github.com/phuslu/gop/issues/337)
@@ -409,4 +409,4 @@ gogo tester现在可以鼠标右键导出成json格式了
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
