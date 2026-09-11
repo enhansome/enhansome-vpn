@@ -17,7 +17,7 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T19:31:02Z",
+                "last_commit": "2026-09-11T19:13:58Z",
                 "open_issues": 162,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:10:00.761Z",
+    "last_updated": "2026-09-11T21:15:13.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
