@@ -29,7 +29,7 @@ PopcornTime（#爆米花时间）和 #WebTorrent 这两个边下边看的视频�
 
 > obfs4+OpenVPN+bbr
 
-<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,203 | 🐛 165 | 🌐 C++ | 📅 2026-09-19
+<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,203 | 🐛 164 | 🌐 C++ | 📅 2026-09-20
 SoftEther VPN Client + VPN Gate Client v4.22-9634
 <http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip>
 
@@ -43,7 +43,7 @@ SoftEther VPN Client + VPN Gate Client v4.22-9634
 <https://twitter.com/shandianshi>
 jap33 教授推介
 brook
-<https://github.com/txthinking/brook> ⭐ 15,182 | 🐛 23 | 🌐 Go | 📅 2026-09-14
+<https://github.com/txthinking/brook> ⭐ 15,183 | 🐛 23 | 🌐 Go | 📅 2026-09-14
 Slitheen
 <https://crysp.uwaterloo.ca/software/slitheen/>
 <https://github.com/zhums/slitheen> ⭐ 5 | 🐛 3 | 🌐 C | 📅 2017-08-27
@@ -409,4 +409,4 @@ gogo tester现在可以鼠标右键导出成json格式了
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
