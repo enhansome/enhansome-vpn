@@ -17,7 +17,7 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-23T20:05:40Z",
+                "last_commit": "2026-09-24T21:22:16Z",
                 "open_issues": 163,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T21:45:06.817Z",
+    "last_updated": "2026-09-24T21:45:49.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
@@ -211,7 +211,7 @@
       "open_issues": 1,
       "owner": "udpsec",
       "repo": "awesome-vpn",
-      "stars": 543,
+      "stars": 544,
       "topics": [
         "awesome-list",
         "awesome-lists",
