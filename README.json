@@ -21,7 +21,7 @@
                 "open_issues": 162,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4215,
+                "stars": 4216,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "WinMTR中文 https://github.com/oott123/WinMTR/releases",
-          "description": null,
+          "description": "oott123/WinMTR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -129,7 +129,7 @@
         {
           "node_type": "item",
           "title": "WinMTR中文 https://github.com/oott123/WinMTR/releases",
-          "description": null,
+          "description": "oott123/WinMTR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -176,7 +176,7 @@
         {
           "node_type": "item",
           "title": "oott123/WinMTR",
-          "description": null,
+          "description": "oott123/WinMTR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:31:25.732Z",
+    "last_updated": "2026-10-03T05:12:34.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
