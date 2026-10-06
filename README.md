@@ -29,7 +29,7 @@ PopcornTime（#爆米花时间）和 #WebTorrent 这两个边下边看的视频�
 
 > obfs4+OpenVPN+bbr
 
-<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,217 | 🐛 163 | 🌐 C++ | 📅 2026-10-06
+<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,218 | 🐛 164 | 🌐 C++ | 📅 2026-10-06
 SoftEther VPN Client + VPN Gate Client v4.22-9634
 <http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip>
 
@@ -50,7 +50,7 @@ Slitheen
 原来的萤火虫
 <https://github.com/yinghuocho/firefly-proxy> ⭐ 4,812 | 🐛 500 | 🌐 Go | 📅 2018-11-14
 Johnson 大大 SNI检测工具
-<https://github.com/johnsonz/go-sni-detector> ⭐ 63 | 🐛 13 | 🌐 Go | 📅 2017-09-10
+<https://github.com/johnsonz/go-sni-detector> ⭐ 62 | 🐛 13 | 🌐 Go | 📅 2017-09-10
 <http://www.nsaneforums.com/topic/256475-worldwide-anti-censorship-software-free-service/>
 国际版
 
