@@ -17,11 +17,11 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T20:49:13Z",
+                "last_commit": "2026-10-13T22:52:40Z",
                 "open_issues": 165,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4222,
+                "stars": 4224,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -61,7 +61,7 @@
                 "open_issues": 3,
                 "owner": "jinyu121",
                 "repo": "SurgeRule",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "surge"
                 ]
@@ -116,7 +116,7 @@
             "open_issues": 37,
             "owner": "SeaHOH",
             "repo": "GotoX",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "auto-proxy",
               "bypass-sni",
@@ -163,7 +163,7 @@
             "open_issues": 37,
             "owner": "SeaHOH",
             "repo": "GotoX",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "auto-proxy",
               "bypass-sni",
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:57:15.247Z",
+    "last_updated": "2026-10-13T23:05:52.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",

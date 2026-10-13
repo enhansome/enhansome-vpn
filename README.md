@@ -29,7 +29,7 @@ PopcornTime（#爆米花时间）和 #WebTorrent 这两个边下边看的视频�
 
 > obfs4+OpenVPN+bbr
 
-<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,222 | 🐛 165 | 🌐 C++ | 📅 2026-10-12
+<https://github.com/PurpleI2P/i2pd/releases/tag/2.10.0> ⭐ 4,224 | 🐛 165 | 🌐 C++ | 📅 2026-10-13
 SoftEther VPN Client + VPN Gate Client v4.22-9634
 <http://download.vpngate.jp/common/cd.aspx/vpngate-client-2016.12.10-build-9634.137157.zip>
 
@@ -43,7 +43,7 @@ SoftEther VPN Client + VPN Gate Client v4.22-9634
 <https://twitter.com/shandianshi>
 jap33 教授推介
 brook
-<https://github.com/txthinking/brook> ⭐ 15,188 | 🐛 23 | 🌐 Go | 📅 2026-09-25
+<https://github.com/txthinking/brook> ⭐ 15,190 | 🐛 23 | 🌐 Go | 📅 2026-09-25
 Slitheen
 <https://crysp.uwaterloo.ca/software/slitheen/>
 <https://github.com/zhums/slitheen> ⭐ 5 | 🐛 3 | 🌐 C | 📅 2017-08-27
@@ -130,7 +130,7 @@ Proxifier
 
 VPS 方案
 社长钦点 ipsec VPN(psk 模式)
-<https://github.com/hwdsl2/docker-ipsec-vpn-server> ⭐ 7,148 | 🐛 0 | 🌐 Shell | 📅 2026-10-08
+<https://github.com/hwdsl2/docker-ipsec-vpn-server> ⭐ 7,149 | 🐛 0 | 🌐 Shell | 📅 2026-10-08
 
 FuguHub MxTunnel 梭鱼 #1773
 全套VPS方案, 附带一个https玩具
@@ -331,7 +331,7 @@ WinMTR中文
 [#795](https://github.com/phuslu/gop/issues/795)
 
 **海少改版梦遗狗**
-<https://github.com/SeaHOH/GotoX> ⭐ 756 | 🐛 37 | 🌐 Python | 📅 2025-03-01
+<https://github.com/SeaHOH/GotoX> ⭐ 757 | 🐛 37 | 🌐 Python | 📅 2025-03-01
 可以获得超白金稳定ip.◇ GoProxy 辅助工具列表
 
 **Google Code的GoAgent Issues备份** [#97](https://github.com/phuslu/gop/issues/97)
@@ -398,7 +398,7 @@ WinMTR中文
 [#795](https://github.com/phuslu/gop/issues/795)
 
 **海少改版梦遗狗**
-<https://github.com/SeaHOH/GotoX> ⭐ 756 | 🐛 37 | 🌐 Python | 📅 2025-03-01
+<https://github.com/SeaHOH/GotoX> ⭐ 757 | 🐛 37 | 🌐 Python | 📅 2025-03-01
 可以获得超白金稳定ip.
 
 <https://github.com/oott123/WinMTR/releases> ⭐ 353 | 🐛 1 | 🌐 C++ | 📅 2018-05-07
