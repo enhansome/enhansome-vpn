@@ -17,11 +17,11 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T22:52:40Z",
+                "last_commit": "2026-10-14T20:39:13Z",
                 "open_issues": 165,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4224,
+                "stars": 4225,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -116,7 +116,7 @@
             "open_issues": 37,
             "owner": "SeaHOH",
             "repo": "GotoX",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "auto-proxy",
               "bypass-sni",
@@ -163,7 +163,7 @@
             "open_issues": 37,
             "owner": "SeaHOH",
             "repo": "GotoX",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "auto-proxy",
               "bypass-sni",
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:05:52.245Z",
+    "last_updated": "2026-10-14T21:55:10.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
