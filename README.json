@@ -17,11 +17,11 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T20:20:01Z",
+                "last_commit": "2026-10-16T16:02:12Z",
                 "open_issues": 167,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4227,
+                "stars": 4229,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -61,7 +61,7 @@
                 "open_issues": 3,
                 "owner": "jinyu121",
                 "repo": "SurgeRule",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "surge"
                 ]
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:43:49.620Z",
+    "last_updated": "2026-10-16T21:39:37.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
