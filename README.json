@@ -17,11 +17,11 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T22:28:36Z",
+                "last_commit": "2026-10-28T22:34:10Z",
                 "open_issues": 159,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4246,
+                "stars": 4242,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -95,7 +95,7 @@
             "open_issues": 1,
             "owner": "oott123",
             "repo": "WinMTR",
-            "stars": 353,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
@@ -142,7 +142,7 @@
             "open_issues": 1,
             "owner": "oott123",
             "repo": "WinMTR",
-            "stars": 353,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
@@ -189,7 +189,7 @@
             "open_issues": 1,
             "owner": "oott123",
             "repo": "WinMTR",
-            "stars": 353,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:17.266Z"
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:34:40.803Z",
+    "last_updated": "2026-10-28T22:49:28.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
