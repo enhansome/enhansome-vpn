@@ -17,11 +17,11 @@
                 "id": 12522239,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-11T22:26:21Z",
+                "last_commit": "2026-11-13T23:41:06Z",
                 "open_issues": 164,
                 "owner": "PurpleI2P",
                 "repo": "i2pd",
-                "stars": 4263,
+                "stars": 4266,
                 "topics": [
                   "anonymity",
                   "c-plus-plus",
@@ -199,7 +199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:50:51.196Z",
+    "last_updated": "2026-11-13T23:50:26.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。",
